@@ -1,0 +1,58 @@
+body
+{
+    background-image: url(bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+h1
+{
+    color:white;
+    font-size: 30px;
+}
+
+h2
+{
+    color:white;
+    font-size: 20px;
+    font-family:-ubuntu;
+}
+
+p
+{
+    color:white;
+}
+
+.box
+{
+    background-color: #000000; 
+    opacity:0.8;
+    margin-top: 200px;
+    padding: 50px;
+    border-radius: 5%;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.box1
+{
+    background-color: #000000; 
+    opacity:0.8;
+    margin-top: 200px;
+    padding: 50px;
+    border-radius: 5%;
+    text-align: center;
+    margin-right: 200px;
+    float: right;
+}
+
+
+.fc
+{
+    height: 45px;
+    size: 20px;
+}
+
+
+

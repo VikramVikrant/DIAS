@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-image:url(bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: sans-serif;
+}
+h1
+{
+    font-size: 50px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+h2
+{
+    font-size: 50px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.trans-box
+{
+    
+    background-color: #000000; 
+    opacity:0.8;
+    margin-top: 10px;
+    padding: 1px;
+    border-radius: 5%;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+
+.transparent-box
+{
+    background-color: #000000; 
+    opacity:0.8;
+    margin-top: 70px;
+    padding: 50px;
+    border-radius: 10%;
+
+}
+
+.text-color
+{
+    color: white;
+}
+
+.btn
+{
+    padding: 15px;
+}
+
+.transparent-box1
+{
+    background-color: #000000; 
+    opacity:0.8;
+    margin-top: 70px;
+    padding: 50px;
+    border-radius: 10%;
+    float: right;
+    
+    
+}
+
+
+
+.carosoul
+{
+    height: 200px;
+}
+
+.slider
+{
+    margin: 30px;
+    height: 600px;
+
+}
